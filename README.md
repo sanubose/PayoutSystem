@@ -1,6 +1,7 @@
 # 💸 Payout Automation System
 
 The **Payout Automation System** is a role-based web application designed to manage and streamline payment-related workflows for mentors and administrators. This system allows users to login as either an **Admin** or a **Mentor**, and dynamically displays relevant modules on the homepage based on their role.
+collecting thire data .
 
 ---
 
