@@ -128,3 +128,4 @@ This project is free to use for educational or demonstration purposes.
 ## 👨‍💻 Author
 
 Made with ❤️ by [Sanu Bose]
+> ⚠️ Note: This is a frontend-only project. On deployment, users must always login via `login.html` to properly set role in localStorage. Direct access to `index.html` will not work unless role is stored.
